@@ -1,6 +1,9 @@
 # Potato_disease_classification_model
 The Potato Disease Classification Model is a machine learning project developed to accurately identify and classify various diseases affecting potato crops. Leveraging machine learning algorithms, the model analyzes images of healthy and diseased potato plants to provide farmers with an efficient tool for early disease detection, Helpful for Farmer
+
+
 FEATURES:-
+
 Dataset: The model is trained on a dataset containing images of both healthy and diseased potato plants, allowing it to learn and distinguish between different disease patterns.
 
 Machine Learning Algorithms: Leveraging the power of machine learning, the model utilizes TensorFlow and Keras to create an effective classification system for potato diseases.
